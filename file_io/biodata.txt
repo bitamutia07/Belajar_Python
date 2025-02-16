@@ -1,0 +1,20 @@
+Nama: David Becam
+Umur: 12
+Alamat: Jambi
+
+Nama: Muhammad Iqbal
+Umur: 21
+Alamat: Batu Raja
+
+Nama: Jaka Tarup
+Umur: 34
+Alamat: Pali
+
+
+Nama: Endang sdakti
+Umur: 61
+Alamat: Gorontalo
+
+Nama: & C:/Users/USER/AppData/Local/Programs/Python/Python313/python.exe "d:/BELAJAR/Belajar Python/with_as.py"
+Umur: & C:/Users/USER/AppData/Local/Programs/Python/Python313/python.exe "d:/BELAJAR/Belajar Python/with_as.py"
+Alamat: & C:/Users/USER/AppData/Local/Programs/Python/Python313/python.exe "d:/BELAJAR/Belajar Python/with_as.py"
